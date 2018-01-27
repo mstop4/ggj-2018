@@ -6,5 +6,10 @@ for (var i=0; i<_max_count; i++)
 	var _cur_obj = global.render_queue[| i]&$FFFFFFFF;
 	
 	with (_cur_obj)
-		draw_self();
+	{
+		if (object_index == obj_transmitter)
+			draw_transmitter();
+		else
+			draw_self();
+	}
 }

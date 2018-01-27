@@ -1,7 +1,7 @@
 switch (state)
 {
 	case transmitState.send_toTarget:
-		if (point_distance(x,y,target_x,target_y) < my_speed)
+		if (point_distance(x,y,target_x,target_y) < my_speed/2)
 		{
 			state = transmitState.return_toPath;
 			if (!ds_list_find_index(obj_goal.piece_list,piece_number))
@@ -14,21 +14,22 @@ switch (state)
 	
 		else
 		{
-			move_towards_point(target_x,target_y,my_speed);
+			move_towards_point(target_x,target_y,my_speed/2);
 		}
 		break;
 		
 	case transmitState.return_toPath:
-		if (point_distance(x,y,path_end_x,path_end_y) < my_speed)
+		if (point_distance(x,y,path_end_x,path_end_y) < my_speed/2)
 		{
 			state = transmitState.return_onPath;
-			path_start(obj_piece_pile.my_path,-2,path_action_stop,true);
+			path_start(obj_piece_pile.my_path,-my_speed,path_action_stop,true);
 			path_position = 1;
+			scaling = 1;
 		}
 	
 		else
 		{
-			move_towards_point(path_end_x,path_end_y,my_speed);
+			move_towards_point(path_end_x,path_end_y,my_speed/2);
 		}
 		break;
 

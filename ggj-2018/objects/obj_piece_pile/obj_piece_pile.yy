@@ -133,6 +133,34 @@
             "value": "spr_yosh",
             "varName": "my_image",
             "varType": 5
+        },
+        {
+            "id": "2b4a226e-c02c-41ba-8b04-ca1072117033",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "8",
+            "varName": "piece_width",
+            "varType": 1
+        },
+        {
+            "id": "d4f78365-39aa-48ad-a9db-6f7440453df8",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "4",
+            "varName": "piece_height",
+            "varType": 1
         }
     ],
     "solid": false,
