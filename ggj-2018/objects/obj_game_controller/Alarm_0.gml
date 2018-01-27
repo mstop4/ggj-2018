@@ -1,0 +1,1 @@
+instance_create_layer(irandom(room_width),irandom(room_height),"Actors",obj_enemy);

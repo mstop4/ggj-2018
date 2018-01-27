@@ -6,7 +6,7 @@ switch (state)
 			state = transmitState.return_toPath;
 			if (!ds_list_find_index(obj_goal.piece_list,piece_number))
 			{
-				instance_create_layer(target_x,target_y,layer,obj_piece);
+				instance_create_layer(target_x,target_y,"Tiles",obj_piece);
 				ds_list_add(obj_goal.piece_list,piece_number);
 			}
 		}

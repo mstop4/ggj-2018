@@ -115,6 +115,25 @@
             }
         },
         {
+            "Key": "3ba037f2-889e-4fb2-a311-1578089065a0",
+            "Value": {
+                "id": "50eadb87-752a-4600-93d7-4c3a8a247122",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_game_controller\/obj_game_controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3c06821c-01d2-4701-85c5-4f0bfb2a6d67",
             "Value": {
                 "id": "20bdbc34-ed96-4e3b-99f2-438344077106",
@@ -400,6 +419,25 @@
             }
         },
         {
+            "Key": "a7fb97c8-c898-4f2e-8564-b33d609aafb5",
+            "Value": {
+                "id": "37300d91-df45-42f5-97b8-61fb0186ff8f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_enemy\/spr_enemy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "d148c730-e885-4703-835d-58e535fc7e0e",
@@ -606,6 +644,44 @@
                 ],
                 "resourcePath": "options\/android\/options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e590570d-e3c3-43d2-8b7d-ebb399b0a0cf",
+            "Value": {
+                "id": "ec701072-2e2e-4a67-a556-cb63c64f796f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_display_manager\/obj_display_manager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e655244c-e3e8-4015-b4e2-e28b26361cea",
+            "Value": {
+                "id": "39405689-8d97-40a7-94aa-d88b023c878e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_enemy\/obj_enemy.yy",
+                "resourceType": "GMObject"
             }
         },
         {

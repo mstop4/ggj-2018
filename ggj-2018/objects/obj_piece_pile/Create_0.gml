@@ -1,4 +1,5 @@
 num_pieces = num_cols * num_rows;
+num_dead = 0;
 pile_list = ds_list_create();
 
 for (var i=0; i<num_pieces; i++)

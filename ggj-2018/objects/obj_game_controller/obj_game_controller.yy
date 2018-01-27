@@ -1,28 +1,28 @@
 {
-    "id": "17fff1ef-b712-4961-a9c2-7ed4af689341",
+    "id": "3ba037f2-889e-4fb2-a311-1578089065a0",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_player",
+    "name": "obj_game_controller",
     "eventList": [
         {
-            "id": "3126f208-3f6c-4f63-ba3c-21522dab1876",
+            "id": "c3ab5521-9fb6-4b04-be99-12917bd9139e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "17fff1ef-b712-4961-a9c2-7ed4af689341"
+            "m_owner": "3ba037f2-889e-4fb2-a311-1578089065a0"
         },
         {
-            "id": "16d6b881-1d95-4f20-b01f-70d081cab491",
+            "id": "cb9f4f7f-34d2-4f44-afc4-ad67542cfea0",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 76,
-            "eventtype": 8,
-            "m_owner": "17fff1ef-b712-4961-a9c2-7ed4af689341"
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "3ba037f2-889e-4fb2-a311-1578089065a0"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -41,8 +41,23 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "08918536-f1a1-42a7-a462-86d5d4591f6f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "5",
+            "varName": "max_enemies",
+            "varType": 1
+        }
+    ],
     "solid": false,
-    "spriteId": "ced61e54-0283-4fcd-b3e8-9355b70c210a",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
