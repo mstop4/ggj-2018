@@ -96,6 +96,25 @@
             }
         },
         {
+            "Key": "1c59a845-92cf-4a35-892e-aeac1390d107",
+            "Value": {
+                "id": "8bc61d0e-b0cc-46bb-9eb0-b0050cab7772",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_pigeon_v\/spr_pigeon_v.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2e3e419f-48e5-4e19-ad65-a941b3a4703a",
             "Value": {
                 "id": "bbe1307c-c6d8-4634-9bff-ff1070a6941b",

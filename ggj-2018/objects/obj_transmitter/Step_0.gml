@@ -11,6 +11,19 @@ else
 	
 switch (state)
 {
+	case transmitState.send_toPath:
+		if (point_distance(x,y,path_start_x,path_start_y) < my_speed * speed_scaling)
+		{
+			state = transmitState.send_onPath;
+			path_start(obj_piece_pile.my_path,my_speed * speed_scaling,path_action_stop,true);
+			target_scaling = 1;
+		}
+	
+		else
+			move_towards_point(path_start_x,path_start_y,my_speed * speed_scaling);
+
+		break;
+	
 	case transmitState.send_toTarget:
 		if (point_distance(x,y,target_x,target_y) < my_speed * speed_scaling)
 		{
