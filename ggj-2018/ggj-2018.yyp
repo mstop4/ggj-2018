@@ -115,6 +115,25 @@
             }
         },
         {
+            "Key": "21cea93a-90da-4ecb-a68f-0749b9ce0141",
+            "Value": {
+                "id": "75494ea3-7ad3-488f-b5ce-720abadbe644",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/soft_min\/soft_min.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "2e3e419f-48e5-4e19-ad65-a941b3a4703a",
             "Value": {
                 "id": "bbe1307c-c6d8-4634-9bff-ff1070a6941b",
@@ -473,6 +492,25 @@
                 ],
                 "resourcePath": "options\/ios\/options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "87206592-35fc-4193-b3bf-96dfe40566af",
+            "Value": {
+                "id": "b89d559e-a85f-410e-95e2-c1fc61b017c5",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/soft_clamp\/soft_clamp.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -968,11 +1006,33 @@
                 "resourcePath": "sprites\/spr_piece_pile\/spr_piece_pile.yy",
                 "resourceType": "GMSprite"
             }
+        },
+        {
+            "Key": "ff152868-26cf-47ae-9e02-65a9936f6d3a",
+            "Value": {
+                "id": "5ad3d5c6-fece-4a78-9742-4993af83ffb3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/soft_max\/soft_max.yy",
+                "resourceType": "GMScript"
+            }
         }
     ],
     "script_order": [
         "ed332aa6-f65d-49a9-8b71-a7abcd2bee9d",
-        "c8f18b98-008a-46ff-99db-e8ee3a785dad"
+        "c8f18b98-008a-46ff-99db-e8ee3a785dad",
+        "87206592-35fc-4193-b3bf-96dfe40566af",
+        "ff152868-26cf-47ae-9e02-65a9936f6d3a",
+        "21cea93a-90da-4ecb-a68f-0749b9ce0141"
     ],
     "tutorial": ""
 }
