@@ -6,5 +6,6 @@ switch (state)
 		break;
 	case transmitState.return_onPath:
 		state = transmitState.return_toPile;
+		target_scaling = 0.25;
 		break;
 }

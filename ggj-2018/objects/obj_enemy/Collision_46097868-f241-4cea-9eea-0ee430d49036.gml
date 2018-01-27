@@ -1,1 +1,2 @@
-instance_destroy();
+if (other.dashing)
+	instance_destroy();
