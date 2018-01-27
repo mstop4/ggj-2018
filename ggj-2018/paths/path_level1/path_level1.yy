@@ -83,16 +83,16 @@
             "id": "0e4344e8-a417-4ce0-a665-b0ec5e00770d",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 742,
-            "y": 634,
+            "x": 609,
+            "y": 638,
             "speed": 100
         },
         {
             "id": "f692d360-0485-4e9c-9dd6-a0becde0f277",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 918,
-            "y": 654,
+            "x": 808,
+            "y": 655,
             "speed": 100
         }
     ],
