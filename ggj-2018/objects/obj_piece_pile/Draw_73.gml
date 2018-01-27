@@ -1,1 +1,0 @@
-draw_text(x,y-64,string(num_pieces) + "\n" + string(num_transmitters) + "\n" + string(num_dead));

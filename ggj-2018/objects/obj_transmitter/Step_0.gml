@@ -11,6 +11,15 @@ else
 	
 switch (state)
 {
+	case transmitState.lost:
+		direction += angle_delta;
+		speed -= 0.05;
+		image_angle += angle_delta*2;
+		
+		if (alarm[0] <= 15)
+			image_alpha = alarm[0] / 15;
+		break;
+	
 	case transmitState.send_toPath:
 		if (point_distance(x,y,path_start_x,path_start_y) < my_speed * speed_scaling)
 		{
@@ -33,6 +42,7 @@ switch (state)
 				var _t = instance_create_layer(target_x,target_y,"Tiles",obj_piece);
 				_t.image_blend = piece_colour;
 				ds_list_add(obj_goal.piece_list,piece_number);
+				global.pieces_in_play--;
 			}
 		}
 	

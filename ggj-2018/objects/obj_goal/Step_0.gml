@@ -1,0 +1,1 @@
+num_pieces = ds_list_size(piece_list);

@@ -4,6 +4,6 @@ enum transmitState{
 	send_toTarget,
 	return_toPath,
 	return_onPath,
-	return_toPile
+	return_toPile,
+	lost
 }
-	

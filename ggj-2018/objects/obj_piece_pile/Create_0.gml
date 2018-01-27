@@ -22,4 +22,5 @@ for (var i=0; i<num_pieces; i++)
 ds_list_shuffle(pile_index_list);
 
 surface_free(_temp_surf);
+global.pieces_in_play = 0;
 alarm[0] = 30;

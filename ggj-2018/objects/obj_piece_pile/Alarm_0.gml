@@ -6,7 +6,6 @@ if (num_pieces > 0 && num_transmitters > 0)
 	var _piece_number = pile_index_list[| 0];
 	var _piece_colour = pile_colour_list[| _piece_number];
 	ds_list_delete(pile_index_list, 0);
-	num_pieces = ds_list_size(pile_index_list);
 	var _col = _piece_number mod num_cols;
 	var _row = _piece_number div num_cols;
 	
@@ -23,7 +22,9 @@ if (num_pieces > 0 && num_transmitters > 0)
 		path_end_y = path_get_point_y(other.my_path,_num_points-1);
 	}
 	
+	global.pieces_in_play++;
 	num_transmitters--;
 }
 	
+num_pieces = ds_list_size(pile_index_list);
 alarm[0] = 30;

@@ -305,6 +305,25 @@
             }
         },
         {
+            "Key": "5500c461-17f3-4142-931b-4eaa4de2cca7",
+            "Value": {
+                "id": "5dc0ded9-1494-447a-aabe-99e3a017d22d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_piece_effect\/obj_piece_effect.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "55e90e78-d7d1-4e49-ad43-10d6153dec20",
             "Value": {
                 "id": "8dcaefd8-2c58-47fb-aa2b-d6543d75e50a",

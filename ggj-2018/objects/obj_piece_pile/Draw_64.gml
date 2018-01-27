@@ -1,0 +1,2 @@
+draw_set_colour(c_black);
+draw_text(0,0,string(num_pieces) + "\n" + string(global.pieces_in_play) + "\n" + string(num_transmitters) + "\n" + string(num_dead) + "\n" + string(num_pieces + global.pieces_in_play + obj_goal.num_pieces));
