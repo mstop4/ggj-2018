@@ -130,7 +130,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "spr_yosh",
+            "value": "spr_birb",
             "varName": "my_image",
             "varType": 5
         },
