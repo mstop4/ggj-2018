@@ -191,6 +191,25 @@
             }
         },
         {
+            "Key": "53748a9a-4413-493f-9b88-1c49cc873a62",
+            "Value": {
+                "id": "d4f49b36-8ed1-4c23-ae9f-1c4d4abb4607",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "paths\/path_level1\/path_level1.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "55e90e78-d7d1-4e49-ad43-10d6153dec20",
             "Value": {
                 "id": "8dcaefd8-2c58-47fb-aa2b-d6543d75e50a",
@@ -628,6 +647,25 @@
             }
         },
         {
+            "Key": "ed332aa6-f65d-49a9-8b71-a7abcd2bee9d",
+            "Value": {
+                "id": "f3a0bbc8-60fe-410c-ac05-1a786021a77d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/init_enums\/init_enums.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "62a447e8-c5df-436b-8cf2-4a79d384e2d1",
@@ -667,7 +705,7 @@
         }
     ],
     "script_order": [
-        
+        "ed332aa6-f65d-49a9-8b71-a7abcd2bee9d"
     ],
     "tutorial": ""
 }

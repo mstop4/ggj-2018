@@ -1,1 +1,1 @@
-ds_list_destroy(piece_list);
+ds_list_destroy(pile_list);

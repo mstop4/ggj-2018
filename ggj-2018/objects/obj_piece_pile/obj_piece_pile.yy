@@ -89,6 +89,34 @@
             "value": "10",
             "varName": "num_rows",
             "varType": 1
+        },
+        {
+            "id": "6f0bc094-454a-43b7-86ee-2706043ad78b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "10",
+            "varName": "num_transmitters",
+            "varType": 1
+        },
+        {
+            "id": "4e90ef6e-29b0-4894-ab36-a6405926e305",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "path_level1",
+            "varName": "my_path",
+            "varType": 5
         }
     ],
     "solid": false,

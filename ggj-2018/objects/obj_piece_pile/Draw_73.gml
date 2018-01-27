@@ -1,1 +1,1 @@
-draw_text(x,y-32,string(num_pieces));
+draw_text(x,y-32,string(num_pieces) + "\n" + string(num_transmitters));
