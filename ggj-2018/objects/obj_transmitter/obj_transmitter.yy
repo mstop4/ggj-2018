@@ -81,7 +81,22 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "f9ddd66a-7233-4e53-917b-692e26260b41",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "4",
+            "varName": "my_speed",
+            "varType": 0
+        }
+    ],
     "solid": false,
     "spriteId": "64cd0e21-2f94-47bf-9bf2-4e9c22de9c12",
     "visible": true

@@ -172,6 +172,25 @@
             }
         },
         {
+            "Key": "45cc7926-843d-424b-8877-8085523984e6",
+            "Value": {
+                "id": "54decac9-8a43-4551-894e-541678166293",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_yosh\/spr_yosh.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "46edba6b-1fd8-4195-b873-8852f50deb91",
             "Value": {
                 "id": "f39474ea-c45f-4fc2-ba9d-5a17eaed2a23",

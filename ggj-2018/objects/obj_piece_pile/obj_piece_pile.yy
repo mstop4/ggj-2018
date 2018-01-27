@@ -93,34 +93,6 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "04b152ae-2fb5-4dc7-9f35-deb3856a1acb",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "10",
-            "varName": "num_cols",
-            "varType": 1
-        },
-        {
-            "id": "67c56646-b0c8-41de-9161-0c6a74a56753",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "10",
-            "varName": "num_rows",
-            "varType": 1
-        },
-        {
             "id": "6f0bc094-454a-43b7-86ee-2706043ad78b",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
@@ -130,7 +102,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "10",
+            "value": "50",
             "varName": "num_transmitters",
             "varType": 1
         },
@@ -146,6 +118,20 @@
             "resourceFilter": 1023,
             "value": "path_level1",
             "varName": "my_path",
+            "varType": 5
+        },
+        {
+            "id": "8bd83157-7bfb-47fd-9478-93f97b0f10cd",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "spr_yosh",
+            "varName": "my_image",
             "varType": 5
         }
     ],
