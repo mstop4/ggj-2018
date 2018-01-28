@@ -10,7 +10,7 @@
     "option_mac_app_id": "com.quadolorgmes.pigeonpost",
     "option_mac_build_app_store": false,
     "option_mac_copyright": "(c) 2018 Quadolor Games, Cirrus Studios",
-    "option_mac_display_cursor": true,
+    "option_mac_display_cursor": false,
     "option_mac_display_name": "Pigeon Post",
     "option_mac_enable_retina": false,
     "option_mac_enable_steam": false,
@@ -23,10 +23,10 @@
     "option_mac_signing_identity": "Developer ID Application:",
     "option_mac_splash_png": "${options_dir}\/mac\/splash\/splash.png",
     "option_mac_start_fullscreen": false,
-    "option_mac_team_id": "",
+    "option_mac_team_id": "ARY3U6V47X",
     "option_mac_texture_page": "2048x2048",
     "option_mac_version": {
-        "build": 3,
+        "build": 4,
         "major": 1,
         "minor": 0,
         "revision": 0
