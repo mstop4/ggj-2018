@@ -11,6 +11,7 @@ if (!paused)
 	{
 		if (!locked_input)
 			facing = point_direction(0,0,h_input,v_input);
+			
 		_input_vec_x = lengthdir_x(1,facing);
 		_input_vec_y = lengthdir_y(1,facing);
 	}
@@ -34,7 +35,7 @@ if (!paused)
 	else
 	{
 		var _sign_x = sign(x_speed);
-		x_speed = _sign_x * soft_clamp(abs(x_speed),-_mag_x,0,max_speed);
+		x_speed = _sign_x * soft_clamp(abs(x_speed),-_mag_x,0,6);
 	}
 
 	if (abs(y_speed) < _mag_y)
@@ -42,7 +43,7 @@ if (!paused)
 	else
 	{
 		var _sign_y = sign(y_speed);
-		y_speed = _sign_y * soft_clamp(abs(y_speed),-_mag_y,0,max_speed);
+		y_speed = _sign_y * soft_clamp(abs(y_speed),-_mag_y,0,6);
 	}
 
 	// Accel

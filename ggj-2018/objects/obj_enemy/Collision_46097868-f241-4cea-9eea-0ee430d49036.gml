@@ -5,8 +5,13 @@ if (other.dashing && !is_dead)
 	speed = 6;
 	is_dead = true;
 	alarm[0] = 60;
+	alarm[1] = -1;
+	alarm[2] = -1;
+	alarm[3] = -1;
+	alarm[4] = -1;
+	friction = 0;
 	dashing = false;
-	temp_pause(5);
+	temp_pause(7);
 	var _w = instance_create_layer((x+other.x)/2,(y+other.y)/2,layer,obj_whomp);
-	_w.alarm[0] = 5;
+	_w.alarm[0] = 7;
 }
