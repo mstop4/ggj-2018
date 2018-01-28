@@ -1,3 +1,4 @@
+my_image = choose(spr_quack,spr_toutatis,spr_snackoil,spr_bunny);
 num_cols = sprite_get_width(my_image);
 num_rows = sprite_get_height(my_image);
 num_pieces = num_cols * num_rows;
@@ -29,7 +30,5 @@ for (var i=0; i<num_transmitters; i++)
 surface_free(_temp_surf);
 global.pieces_in_play = 0;
 alarm[0] = 30;
-
-my_image = choose(spr_quack,spr_toutatis,spr_snackoil,spr_bunny);
 
 paused = false;

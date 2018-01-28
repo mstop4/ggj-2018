@@ -151,20 +151,6 @@
             "varType": 5
         },
         {
-            "id": "8bd83157-7bfb-47fd-9478-93f97b0f10cd",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "spr_toutatis",
-            "varName": "my_image",
-            "varType": 5
-        },
-        {
             "id": "2b4a226e-c02c-41ba-8b04-ca1072117033",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
