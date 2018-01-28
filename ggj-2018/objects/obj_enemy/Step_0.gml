@@ -17,7 +17,7 @@ if (!paused)
 				}
 				
 				else
-					move_towards_point(_nt.x,_nt.y,1);
+					move_towards_point(_nt.x,_nt.y,2);
 			}
 			
 			else

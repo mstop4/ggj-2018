@@ -9,6 +9,7 @@ if (other.dashing && !is_dead && can_ouch)
 	alarm[3] = -1;
 	alarm[4] = -1;
 	var _w = instance_create_layer((x+other.x)/2,(y+other.y)/2,layer,obj_whomp);
+	audio_play_sound(snd_whomp,1,false);
 	can_ouch = false;
 			
 	if (my_hp <= 0)

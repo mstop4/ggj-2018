@@ -1,0 +1,1 @@
+show_hp = false;

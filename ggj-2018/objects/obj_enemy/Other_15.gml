@@ -6,4 +6,3 @@ for (var i=0; i<6; i++)
 speed = old_speed;
 image_speed = old_image_speed;
 friction = old_friction;
-t_delta = old_t_delta;

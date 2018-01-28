@@ -134,6 +134,25 @@
             }
         },
         {
+            "Key": "15c7cb55-3e0f-460c-946e-5a0c254f6bfc",
+            "Value": {
+                "id": "da9fcdd2-f6e8-4fd3-bd37-2501be49451a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/snd_dash\/snd_dash.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "17fff1ef-b712-4961-a9c2-7ed4af689341",
             "Value": {
                 "id": "c9f12bcd-e43b-4470-ac0f-3f92e33d6969",
@@ -188,6 +207,25 @@
                 ],
                 "resourcePath": "scripts\/soft_min\/soft_min.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "27fb5ac1-ac01-462d-84f9-d4a9e0e06ac9",
+            "Value": {
+                "id": "c09e3292-b08d-445d-857d-07dd0ef99276",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/snd_whomp\/snd_whomp.yy",
+                "resourceType": "GMSound"
             }
         },
         {

@@ -27,4 +27,5 @@ if (other.dashing && scaling == 1 && state <> transmitState.lost)
 	path_end()
 	alarm[0] = 60;
 	target_scaling = 0.25;
+	audio_play_sound(snd_whomp,1,false);
 }

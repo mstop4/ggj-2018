@@ -1,1 +1,1 @@
-draw_text(128,0,string(num_pieces));
+//draw_text(128,0,string(num_pieces));
