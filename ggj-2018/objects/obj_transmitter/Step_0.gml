@@ -10,6 +10,9 @@ if (!paused)
 		speed_scaling = power((scaling - 0.25)/0.75,2) * 0.75 + 0.25;
 	else
 		speed_scaling = scaling;
+		
+	if (state <> transmitState.lost && image_alpha < 1)
+		image_alpha = min(1,image_alpha+alpha_delta);
 	
 	switch (state)
 	{

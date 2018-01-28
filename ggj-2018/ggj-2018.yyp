@@ -58,6 +58,44 @@
             }
         },
         {
+            "Key": "099f3a90-f1d3-4af1-a890-9d1c777b697a",
+            "Value": {
+                "id": "c210bc88-29dd-47ce-82d3-cf00972cd151",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/mus_menu\/mus_menu.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "0e719b49-54e1-443a-bc2a-97887a734f6e",
+            "Value": {
+                "id": "0cc4981b-e69d-4372-b9e3-c6f50ecef01f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_transmitter_waiting\/obj_transmitter_waiting.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0fce5a91-24cd-4fdc-bc4f-2df211ebd2c4",
             "Value": {
                 "id": "e8ddac33-7b58-43ae-ae61-b3202729105b",
@@ -207,6 +245,25 @@
                 ],
                 "resourcePath": "objects\/obj_game_controller\/obj_game_controller.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3bc7bfd6-de2b-4134-872d-f580c3a98d15",
+            "Value": {
+                "id": "9b8d0eeb-32ad-417e-b10d-7b2d5b7db9c6",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_snackoil\/spr_snackoil.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -799,25 +856,6 @@
             }
         },
         {
-            "Key": "c4b4ed0f-59f9-4bc9-95bd-75cb96bbb1cf",
-            "Value": {
-                "id": "217f6c09-d335-4546-95fe-ae3dd11c3494",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/sprite15\/sprite15.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "c660f811-2e7a-4d9c-8210-e603875ee387",
             "Value": {
                 "id": "73f2d5e4-ee1c-4482-a217-ef9d7dc3a580",
@@ -1065,6 +1103,25 @@
             }
         },
         {
+            "Key": "ec3af80d-f9eb-415f-b39f-39208ca3f93f",
+            "Value": {
+                "id": "2aa99993-be59-4ae7-8fe9-66d60383d394",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_bunny\/spr_bunny.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ed332aa6-f65d-49a9-8b71-a7abcd2bee9d",
             "Value": {
                 "id": "f3a0bbc8-60fe-410c-ac05-1a786021a77d",
@@ -1100,6 +1157,25 @@
                 ],
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f722fc14-95ea-4129-8fc7-21234a1de180",
+            "Value": {
+                "id": "02459649-57cf-43f4-b946-1f5d4d4b8cdd",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/mus_main\/mus_main.yy",
+                "resourceType": "GMSound"
             }
         },
         {

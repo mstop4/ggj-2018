@@ -93,6 +93,16 @@
             "enumb": 15,
             "eventtype": 7,
             "m_owner": "d87b8975-b144-401b-a04c-e2082facff13"
+        },
+        {
+            "id": "0cdcb07c-15c9-4a85-8bba-61c011c4eaf7",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "d87b8975-b144-401b-a04c-e2082facff13"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -122,7 +132,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "50",
+            "value": "30",
             "varName": "num_transmitters",
             "varType": 1
         },
@@ -150,7 +160,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "spr_quack",
+            "value": "spr_toutatis",
             "varName": "my_image",
             "varType": 5
         },
@@ -178,7 +188,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "4",
+            "value": "8",
             "varName": "piece_height",
             "varType": 1
         }

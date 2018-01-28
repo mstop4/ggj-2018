@@ -10,6 +10,8 @@ path_end_y = 0;
 piece_x_offset = 0;
 piece_y_offset = 0;
 
+image_alpha = 0;
+alpha_delta = 1/30;
 target_scaling = 0.25;
 scaling = 0.25;
 speed_scaling = scaling;

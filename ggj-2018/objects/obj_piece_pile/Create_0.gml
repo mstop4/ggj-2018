@@ -21,8 +21,15 @@ for (var i=0; i<num_pieces; i++)
 
 ds_list_shuffle(pile_index_list);
 
+for (var i=0; i<num_transmitters; i++)
+{
+	transmitter[i] = instance_create_layer(x,y,layer,obj_transmitter_waiting);
+}
+
 surface_free(_temp_surf);
 global.pieces_in_play = 0;
 alarm[0] = 30;
+
+my_image = choose(spr_quack,spr_toutatis,spr_snackoil,spr_bunny);
 
 paused = false;
