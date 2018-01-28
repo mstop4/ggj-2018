@@ -13,6 +13,7 @@ piece_y_offset = 0;
 target_scaling = 0.25;
 scaling = 0.25;
 speed_scaling = scaling;
+paused = false;
 
 disabled = false;
 angle_delta = 0;

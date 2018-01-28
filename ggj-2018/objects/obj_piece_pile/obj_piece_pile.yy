@@ -73,6 +73,26 @@
             "enumb": 1,
             "eventtype": 2,
             "m_owner": "d87b8975-b144-401b-a04c-e2082facff13"
+        },
+        {
+            "id": "4e9f59c0-b46c-4eaa-ad85-1b41efc902c8",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 14,
+            "eventtype": 7,
+            "m_owner": "d87b8975-b144-401b-a04c-e2082facff13"
+        },
+        {
+            "id": "11b7706a-67f5-4d79-9749-c9aa3fe4fc63",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 15,
+            "eventtype": 7,
+            "m_owner": "d87b8975-b144-401b-a04c-e2082facff13"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -130,7 +150,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "spr_birb",
+            "value": "spr_quack",
             "varName": "my_image",
             "varType": 5
         },
