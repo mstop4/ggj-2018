@@ -172,6 +172,25 @@
             }
         },
         {
+            "Key": "1b358f38-b5b0-4ae1-b00f-b88fbd95169d",
+            "Value": {
+                "id": "e7634dde-271d-454d-ad95-e0ed462ec495",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_win\/spr_win.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1c59a845-92cf-4a35-892e-aeac1390d107",
             "Value": {
                 "id": "8bc61d0e-b0cc-46bb-9eb0-b0050cab7772",
@@ -264,6 +283,25 @@
                 ],
                 "resourcePath": "views\/2ea23b84-0cb9-4325-b87d-68ca0529eb5f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "39d0e87d-b346-4944-826d-228a142dcdb8",
+            "Value": {
+                "id": "500c961f-76e6-4a55-a20d-94a98ad89742",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_scaler\/obj_scaler.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -587,6 +625,25 @@
                 ],
                 "resourcePath": "sprites\/spr_quack\/spr_quack.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "69319e82-51d6-4397-8b28-62c2d41a65cb",
+            "Value": {
+                "id": "294d4c5c-6f34-4fbf-9805-1b4d71932eef",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/room_win\/room_win.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -1046,6 +1103,25 @@
             }
         },
         {
+            "Key": "d14769c3-9c71-4977-a3f6-88fb2ef0ab6f",
+            "Value": {
+                "id": "9741cdae-010c-4489-be9b-0be0f081e26c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_win\/obj_win.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d87b8975-b144-401b-a04c-e2082facff13",
             "Value": {
                 "id": "d433b8b0-0b72-440b-b87f-4cd1f3b58639",
@@ -1157,25 +1233,6 @@
                 ],
                 "resourcePath": "options\/android\/options_android.yy",
                 "resourceType": "GMAndroidOptions"
-            }
-        },
-        {
-            "Key": "e590570d-e3c3-43d2-8b7d-ebb399b0a0cf",
-            "Value": {
-                "id": "ec701072-2e2e-4a67-a556-cb63c64f796f",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/obj_display_manager\/obj_display_manager.yy",
-                "resourceType": "GMObject"
             }
         },
         {

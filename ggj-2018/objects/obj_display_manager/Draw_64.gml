@@ -1,1 +1,0 @@
-draw_text(32,0,"FPS: " + string(fps));

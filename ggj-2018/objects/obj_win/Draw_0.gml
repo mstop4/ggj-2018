@@ -1,0 +1,1 @@
+draw_sprite_ext(global.pic,0,20,20,32,32,0,c_white,1);
