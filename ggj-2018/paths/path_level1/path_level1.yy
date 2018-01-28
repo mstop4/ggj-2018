@@ -8,99 +8,99 @@
     "kind": 1,
     "points": [
         {
-            "id": "3b48835c-2e2f-4420-95be-2be16603255b",
+            "id": "8ecd160a-3206-4329-b063-4adfee2bbf87",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 206,
-            "y": 593,
+            "x": 248.6777,
+            "y": 124.249023,
             "speed": 100
         },
         {
-            "id": "ac56cb23-4a15-4650-babb-e58491312e45",
+            "id": "f7c4baa1-6f6a-4005-aac6-b82e7c3e74b1",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 231,
-            "y": 550,
+            "x": 618.5732,
+            "y": 38.66537,
             "speed": 100
         },
         {
-            "id": "fd39eacf-bd20-4014-97f2-80328ce659df",
+            "id": "73c5a178-24cb-41f8-96b2-10223c5bd669",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 25,
-            "y": 432,
+            "x": 964.852661,
+            "y": 72.2927551,
             "speed": 100
         },
         {
-            "id": "db9fc1f7-5b6c-4a34-9d9b-38ea39c548bc",
+            "id": "10e64860-6141-40b6-a5e3-4dc8cf672420",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 98,
-            "y": 86,
+            "x": 918.518,
+            "y": 197.866913,
             "speed": 100
         },
         {
-            "id": "85578c6a-f29f-4425-b472-a54fc2fde46e",
+            "id": "df86ad52-6053-454e-9b4f-5c811b8db957",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 352,
-            "y": 736,
+            "x": 521.8793,
+            "y": 229.131165,
             "speed": 100
         },
         {
-            "id": "b265df29-f803-4753-b844-4d508193a649",
+            "id": "71630157-b914-4fb9-8912-f149f2617c7b",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 320,
-            "y": 32,
+            "x": 64.30127,
+            "y": 310.5494,
             "speed": 100
         },
         {
-            "id": "3d32646b-4777-4989-a428-8e692d1891bf",
+            "id": "b07e4ea5-170f-470c-bb83-4a06b38d811d",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 480,
-            "y": 64,
+            "x": 74.02182,
+            "y": 422.705322,
             "speed": 100
         },
         {
-            "id": "2e85c748-2779-4f48-8ab3-b36690ac925d",
+            "id": "75ba6cde-c92e-4612-af91-dab2425dd727",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 576,
-            "y": 416,
+            "x": 917.2804,
+            "y": 380.8688,
             "speed": 100
         },
         {
-            "id": "95628f37-3037-4b34-8c53-58efaeedef9a",
+            "id": "cbee1850-efc4-41c9-ba55-5e6a78f0a3c7",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 374,
-            "y": 494,
+            "x": 919.3907,
+            "y": 511.353577,
             "speed": 100
         },
         {
-            "id": "0e4344e8-a417-4ce0-a665-b0ec5e00770d",
+            "id": "ed173d7f-7617-40ed-b4fb-c7c561db87a8",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 392,
-            "y": 708,
+            "x": 62.191,
+            "y": 540.673,
             "speed": 100
         },
         {
-            "id": "f692d360-0485-4e9c-9dd6-a0becde0f277",
+            "id": "f7a6b6e5-fe2a-4ff5-b27d-47db349f6502",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 609,
-            "y": 638,
+            "x": 56.8621063,
+            "y": 675.6635,
             "speed": 100
         },
         {
-            "id": "7e3c1932-f7c9-4d17-a2aa-d195c0937f3f",
+            "id": "3ce1d8fe-39e5-4f4a-b4df-766c5aea7e75",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 816,
-            "y": 659,
+            "x": 817.3013,
+            "y": 660.9601,
             "speed": 100
         }
     ],

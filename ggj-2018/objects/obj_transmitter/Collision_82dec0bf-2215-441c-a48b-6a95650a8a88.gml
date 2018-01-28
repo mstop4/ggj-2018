@@ -17,8 +17,8 @@ if (other.dashing && scaling == 1 && state <> transmitState.lost)
 	_p.speed = my_speed;
 	
 	var _w = instance_create_layer((x+other.x)/2,(y+other.y)/2,layer,obj_whomp);
-	_w.scale_rate = 0.5;
-	_w.max_scale = 2;
+	_w.scale_rate = 0.25;
+	_w.max_scale = 1;
 	_w.alarm[0] = 10;
 	
 	angle_delta = choose(-5,5);

@@ -2,7 +2,7 @@
     "id": "984de1ff-0a3e-44fc-90e5-9a322dd578a3",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_birb",
+    "name": "spr_toutatis",
     "For3D": false,
     "HTile": false,
     "VTile": false,

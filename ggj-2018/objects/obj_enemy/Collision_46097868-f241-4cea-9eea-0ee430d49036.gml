@@ -29,6 +29,7 @@ if (other.dashing && !is_dead && can_ouch)
 		alarm[0] = -1;
 		alarm[5] = 30;
 		speed = 8;
+		t_delta = 1/60;
 		temp_pause(7);
 		_w.alarm[0] = 7;
 	}
