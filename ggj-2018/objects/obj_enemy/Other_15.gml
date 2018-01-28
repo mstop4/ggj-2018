@@ -1,5 +1,5 @@
 paused = false;
-for (var i=0; i<5; i++)
+for (var i=0; i<6; i++)
 {
 	alarm[i] = old_alarm[i];
 }

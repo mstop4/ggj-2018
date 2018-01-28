@@ -2,7 +2,7 @@
 
 if (num_pieces > 0 && num_transmitters > 0)
 {
-	var _t = instance_create_layer(x,y,layer,obj_transmitter);
+	var _t = instance_create_layer(x,y,"Actors",obj_transmitter);
 	var _piece_number = pile_index_list[| 0];
 	var _piece_colour = pile_colour_list[| _piece_number];
 	ds_list_delete(pile_index_list, 0);

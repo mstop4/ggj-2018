@@ -2,13 +2,15 @@ if (!paused)
 {
 	if (!is_dead)
 	{
-		if (!charge)
+		if (!charge && can_ouch)
 		{
-			var _nt = instance_nearest(x,y,obj_transmitter);
+			var _nt = instance_nearest(x,y,cls_targetable);
+			
 			if (_nt <> noone)
 			{
 				if (can_charge && point_distance(x,y,_nt.x,_nt.y) < 128)
 				{
+					direction = point_direction(x,y,_nt.x,_nt.y);
 					can_charge = false;
 					charge = true;
 					alarm[1] = 20;
