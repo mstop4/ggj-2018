@@ -1,5 +1,5 @@
 # Pigeon Post
-*Submission to Global Game Jam 2018*
+***Submission to Global Game Jam 2018***
 
 You are transferring an image one tile at a time via Pigeon Post. Play as an owl and protect them against the falcons who want to disrupt their route!
 
