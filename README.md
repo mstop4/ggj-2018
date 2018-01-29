@@ -13,5 +13,5 @@ Space Bar - Dash Attack
 - A Bold Choice - Compose the music in a style that is completely inappropriate for your game
 
 ## Credits
-Code - Jonathan Lam
-Art and Audio - Bernice Wong
+- **Programming** - Jonathan Lam
+- **Art and Audio** - Bernice Wong
